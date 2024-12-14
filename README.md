@@ -38,17 +38,20 @@ This repository contains a replication of the MeaCap model, designed for zero-sh
 ## Installation
 
 To install and set up the MeaCapReplication project, follow these steps:
-
+### 0. Setup the File Structure and download the CC3M , SS1M and COCO captions from the original GitHub link
+```bash
+https://github.com/joeyz0z/MeaCap
+```
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Ronit26x/MeaCapReplication.git
 cd MeaCapReplication
 ```
-### 2. Set up the virtual environment (optional)
+### 2. Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Run the Environment Setup Script
+### 3.  Set up the virtual environment (optional)
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
