@@ -60,6 +60,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 bash environment_setup.sh
 ```
+### 5. Run the .ipynb file in your google colab notebook
+
 
 
 
