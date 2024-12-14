@@ -38,7 +38,7 @@ This repository contains a replication of the MeaCap model, designed for zero-sh
 ## Installation
 
 To install and set up the MeaCapReplication project, follow these steps:
-### 0. Setup the File Structure and download the CC3M , SS1M and COCO captions from the original GitHub link
+### 0. Setup the File Structure and download the CC3M , SS1M and COCO captions from the original GitHub link, also download the FLickr30k dataset
 ```bash
 https://github.com/joeyz0z/MeaCap
 ```
