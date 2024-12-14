@@ -46,9 +46,19 @@ cd MeaCapReplication
 ```
 ### 2. Set up the virtual environment (optional)
 ```bash
+pip install -r requirements.txt
+```
+### 3. Run the Environment Setup Script
+```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
+### 4. Run the Environment Setup Script
+```bash
+bash environment_setup.sh
+```
+
+
 
 
 
