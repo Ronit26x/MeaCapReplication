@@ -43,6 +43,12 @@ To install and set up the MeaCapReplication project, follow these steps:
 ```bash
 git clone https://github.com/Ronit26x/MeaCapReplication.git
 cd MeaCapReplication
+```
+### 2. Set up the virtual environment (optional)
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 
 
